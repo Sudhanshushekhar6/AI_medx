@@ -42,7 +42,7 @@ This AI-powered healthcare system detects multiple diseases, including **dental 
 
 
 ## **Contributors**
-- **Sudhansh Kumar** (Team Lead)
+- **Sudhanshu Kumar** (Team Lead)
 - [Raushan Kumar]
 
 ## **License**
